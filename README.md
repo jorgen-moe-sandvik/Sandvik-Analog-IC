@@ -1,2 +1,7 @@
 # Sandvik-Analog-IC
-Sandvik-Analog-IC repository for tools and scripts.
+Sandvik-Analog-IC's repository for tools and scripts.
+
+## Feature wish-list
+- SPICE model look-up table generator
+- Statistical mismatch & variation plotter
+- FFT Analyzer
