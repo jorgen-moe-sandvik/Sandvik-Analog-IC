@@ -6,6 +6,6 @@ Sandvik-Analog-IC's repository for tools and scripts.
 - Statistical mismatch & variation plotter
 - FFT Analyzer
 ----
-- **Cororate Identity (Grafisk Profil)**
+- **Corporate Identity (Grafisk Profil)**
 - Color Scheme
 - Plot Profiles
