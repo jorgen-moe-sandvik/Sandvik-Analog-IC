@@ -5,7 +5,7 @@ Sandvik-Analog-IC's repository for tools and scripts.
 - SPICE model look-up table generator
 - Statistical mismatch & variation plotter
 - FFT Analyzer
-- **Corporate Identity (Grafisk profil)**
 ----
+- **Cororate Identity (Grafisk Profil)**
 - Color Scheme
 - Plot Profiles
