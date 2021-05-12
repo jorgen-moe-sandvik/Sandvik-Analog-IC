@@ -6,6 +6,7 @@ Sandvik-Analog-IC's repository for tools and scripts.
 - Statistical mismatch & variation plotter
 - Pareto frontier (Contour) plotter
 - FFT Analyzer
+- Technology "Color Chart"
 ----
 - **Corporate Identity (Grafisk Profil)**
 - Color Scheme
