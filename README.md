@@ -7,7 +7,11 @@ Sandvik-Analog-IC's repository for tools and scripts.
 - Pareto frontier (Contour) plotter
 - FFT Analyzer
 - Technology "Color Chart"
+- Adventure Journal Game
+- Checklist Generator
 ----
 - **Corporate Identity (Grafisk Profil)**
 - Color Scheme
 - Plot Profiles
+- Standard Symbol
+- Standard Schematic
