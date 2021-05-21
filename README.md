@@ -5,10 +5,18 @@ Sandvik-Analog-IC's repository for tools and scripts.
 - SPICE model look-up table generator
 - Statistical mismatch & variation plotter
 - Pareto frontier (Contour) plotter
-- FFT Analyzer
 - Technology "Color Chart"
 - Adventure Journal Game
 - Checklist Generator
+----
+**Toolbox**
+- FFT Analyzer
+- Device Sizer
+  - *Noise*
+  - *Distortion*
+  - *Gain*
+  - *Bandwidth*
+  - *Power*
 ----
 - **Corporate Identity (Grafisk Profil)**
 - Color Scheme
