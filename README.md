@@ -8,6 +8,7 @@ Sandvik-Analog-IC's repository for tools and scripts.
 - Technology "Color Chart"
 - Adventure Journal Game
 - Checklist Generator
+- S-plane pole-zero plotter
 ----
 **Toolbox**
 - FFT Analyzer
